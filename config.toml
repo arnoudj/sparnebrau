@@ -1,0 +1,15 @@
+baseURL = "http://sparnebrau.nl/"
+languageCode = "en-us"
+title = "Spärne Bräu"
+theme = "hugo-theme-bleak"
+
+[params]
+  # Warning Keys are case sensitives
+  Subtitle = "A Homebrew Blog"
+  cover = "/images/hops.jpg"
+
+  [params.author]
+    firstName = "Arnoud"
+    lastName = "de Jonge"
+    userName = "arnoud"
+    website = "http://sparnebrau.nl"
