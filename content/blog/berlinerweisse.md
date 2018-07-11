@@ -51,6 +51,8 @@ Gist:
  - Secundair: Brettanomyces en andere beestjes uit bezinksel van een
    willekeurig flesje zuur
 
+![Summary](/images/berlinerweisse001.png)
+
 ## Proces
 
 ### Dag 1
