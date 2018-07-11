@@ -90,3 +90,9 @@ in zit.
 Traditioneel wordt er siroop toegevoegd aan het bier om een zoetje
 tegenover het zuur te zetten. Mischien ga ik nog zelf een aantal siropen
 maken om erbij te serveren.
+
+## Bronnen
+
+ - [American Sour Beers](https://www.brewerspublications.com/products/american-sour-beers-innovative-techniques-for-mixed-fermentations)
+ - [Berliner Weisse - the old-time kettle-souring technique](https://sourbeernews.com/2012/09/18/berliner-weisse-the-old-time-kettle-souring-technique/)
+ - [Meyer Berliner Wiesse](http://www.craftbrewersconference.com/wp-content/uploads/2012_Meyer_Berliner-Weisse.pdf)
