@@ -4,46 +4,89 @@ date: 2018-07-10T17:58:47Z
 draft: false
 ---
 
-Voor mijn volgende brouwsel wil ik een Berliner Wiesse gaan maken. Dat is
-extra spannend omdat het de eerste keer zal zijn dat ik een zuur bier ga
-maken.
+Hoewel ik al heel lang fan ben van zure bieren, heb ik er nog nooit een zelf
+gebrouwen. Wellicht uit angst voor besmetting of de hoeveelheid werk en het
+lange wachten. Daar moet nu maar eens verandering in komen. Ik ben me nu al
+een tijdje aan het inlezen en heb op de laatste Carnavale Bettanomyces een
+aantal lezingen gevolgd. Ik ben er dus helemaal klaar voor!
 
 <!--more-->
 
-Een Berliner Weisse is zeer geschikt om te beginnen met het maken van
-zure bieren omdat de kans op besmetting van je brouwomgeving minimaal is.
-Het verzuren vind plaats in de brouwketel. Doordat het wort na het verzuren
-weer gekookt wordt wordt de Lactobacillus geneutraliseerd. Het blijft
-natuurlijk wel zaak dat je na gebruik de brouwketel goed reinigt met een
-schoonmaakmiddel als Star San.
+Mijn eerste echte poging gaat een Berlinner Weisse worden. Eigenlijk is het
+poging twee, omdat ik nu nog een Orval kloon in het vat het zitten, waar nu
+de brettjes lekker op aan het knagen zijn.
 
-Een ander voordeel van een Berliner Weisse is dat het verzuren veel
-sneller gaat dan bij bijvoorbeeld een lambiek. Die vele maanden tot jaren
-nodig heeft. Maar een Berliner Weisse zal dan ook niet de complexiteit
-aan geuren en smaken krijgen die we in een Lambiek terug vinden.
+De Berliner Weisse is een fris zuur bier. Hij hoort licht van kleur te zijn
+met een mooie witte schuimkraag en mag troebel zijn. Traditioneel is hij
+laag in alcohol, rond de 3% ABV. De moutstort bestaat meestal uit pils-
+en tarwemout. Hier voeg ik nog een zuurmout aan toe om het wort alvast
+een beetje zuurder te maken, zodat de Lactobacillus zich meteen thuis voelt.
 
-Het verzuren ga ik in de brouwketel doen. Na het maischen ga ik het
-wort terug koelen naar ± 50 graden en voeg ik een hopzakje met ongeschroten
-mout toe. De Lactobacillus die van nature op het mout aanwezig is krijgt
-met deze temperatuur de beste kans en zal de andere gisten en bacterieën,
-die in het mout aanwezig zijn, de baas worden.
+Wat de Berliner Weisse zo aantrekkelijk maakt om te brouwen, is dat het niet
+veel langer duurt dan een 'schoon' bier, en het levert een heerlijk 
+sessiebier op. Kans op besmetting van de brouwerij is ook beperkt, omdat
+het verzuren in de brouwketel gedaan wordt en het wort hierna weer wordt
+gekookt.
 
-Om de Lactobacillus nog beter zijn werk te laten doen ga ik ook zuurmout
-gebruiken. Hierdoor wordt de pH van het wort alvast verlaagd, waardoor de
-Lactobacillus zich nog beter thuis zal voelen. Omdat Lactobacillus vieze
-smaken en geuren kan gaan produceren, als deze in contact komt met zuurstof,
-wil ik de brouwketel vullen met CO2 en daarna afsluiten met platicfolie.
+Ik ga het mezelf weer moeilijk maken, door geen melkzuur toe te voegen, maar
+gebruik te maken van de gisten en bacterieën die van nature op het mout
+aanwezig zijn. In de secundaire vergisting voeg ik ook nog wat bezinksel
+toe uit een flesje geuze.
 
-Na 24 tot 48 uur moet de Lactobacillus zijn werk gedaan hebben. Ik heb
-nog geen pH meter, dus ik zal uit moeten gaan van de smaak van het wort.
+## Ingrediënten
+
+Mout:
+
+ - 60% Pilsmout
+ - 10% Zuurmout
+ - 30% Tarwemout
+
+Hop:
+
+ - 15 min Perle 6 IBU
+
+Gist:
+
+ - Primair: White Labs WLP036 Düsseldorf Alt Ale
+ - Secundair: Brettanomyces en andere beestjes uit bezinksel van een
+   willekeurig flesje zuur
+
+## Proces
+
+### Dag 1
+
+Maischen op 66 graden voor een uur, daarna nog 10 minuten op 78 graden en
+uitmaischen naar 85. Hierna spoelen en filteren. Terugkoelen naar 50 graden
+en een hopzakje met een halve kilo pilsmout in de ketel leggen. Om nare
+geuren en smaken te voorkomen, die kunnen ontstaan als het wort in
+contact komt met zuurstof, zal er een dekentje van koolzuur in de ketel
+gespoten worden, waarna het deksel met plasticfolie wordt afdichten.
+
+### Dag 2/3
+
+Op dag 2 en 3 proeven of de juiste zuurtegraad is bereikt. Ik heb geen
+pH meter, dus ik laat me leiden door de smaak.
 
 Als de gewenste zuurtegraad bereikt is, wordt de Lactobacillus gestopt
 door het wort korte tijd te koken. Hierbij wordt ook de hop toegevoegd.
-Ik ga het wort 15 minute koken. Genoeg om een IBU van 6 te verkrijgen.
 
-Daarna terug koelen naar 20 graden en dan kan de gist toegevoegd worden.
-Ik begin voor de primaire vergisting met een WLP036 Düsseldorf Alt Ale.
-Als de primaire vergisting klaar is, ga ik het bezinksel van een flesje
-zuur bier toevoegen, zodat de Brettanomyces het over kan nemen om het
-bier zo droog mogelijk te maken. Secundaire vergisting zal ongeveer 3
-maanden duren.
+Daarna terug koelen naar 20 graden en dan kan de gist toegevoegd worden
+voor de primaire vergisting.
+
+### Dag 7
+
+Als de primaire vergisting het meeste van zijn werk gedaan heeft kan de
+brettanomyces worden toegevoegd. Hiervoor ga ik een slurry toevoegen
+uit een flesje zuur bier.
+
+### Bottelen en hervergisting op fles
+
+Na ongeveer 3 maanden het bier bottelen met 6 gram suiker per liter.
+De flesjes nog een week of 2 a 3 laten liggen tot er genoeg koolzuur
+in zit.
+
+### Drinken!
+
+Traditioneel wordt er siroop toegevoegd aan het bier om een zoetje
+tegenover het zuur te zetten. Mischien ga ik nog zelf een aantal siropen
+maken om erbij te serveren.
