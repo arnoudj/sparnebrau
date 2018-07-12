@@ -98,3 +98,4 @@ maken om erbij te serveren.
  - [American Sour Beers](https://www.brewerspublications.com/products/american-sour-beers-innovative-techniques-for-mixed-fermentations)
  - [Berliner Weisse - the old-time kettle-souring technique](https://sourbeernews.com/2012/09/18/berliner-weisse-the-old-time-kettle-souring-technique/)
  - [Meyer Berliner Wiesse](http://www.craftbrewersconference.com/wp-content/uploads/2012_Meyer_Berliner-Weisse.pdf)
+ - [Milk the Funk Wiki](http://www.milkthefunk.com/wiki/Wort_Souring#Souring_in_the_Boiler_.28Kettle_Sour.29)
