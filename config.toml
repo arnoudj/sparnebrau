@@ -1,7 +1,8 @@
-baseURL = "http://sparnebrau.nl/"
-languageCode = "en-us"
+baseURL = "https://sparnebrau.nl/"
+languageCode = "nl-nl"
 title = "Spärne Bräu"
 theme = "hugo-theme-bleak"
+enableRobotsTXT = true
 
 [params]
   # Warning Keys are case sensitives
@@ -12,5 +13,5 @@ theme = "hugo-theme-bleak"
     firstName = "Arnoud"
     lastName = "de Jonge"
     userName = "arnoud"
-    website = "http://sparnebrau.nl"
+    website = "https://sparnebrau.nl"
     twitter = "@noudsch"
