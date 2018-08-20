@@ -27,8 +27,8 @@ veel langer duurt dan een 'schoon' bier, en het levert een heerlijk sessiebier
 op. Kans op besmetting van de brouwerij is ook beperkt, omdat het verzuren in
 de brouwketel gedaan wordt en het wort hierna weer wordt gekookt.
 
-Ik ga het mezelf weer moeilijk maken, door geen melkzuur toe te voegen, maar
-gebruik te maken van de gisten en bacterieën die van nature op het mout
+Ik ga het mezelf weer moeilijk maken, door geen lactobacillus toe te voegen,
+maar gebruik te maken van de gisten en bacterieën die van nature op het mout
 aanwezig zijn. In de secundaire vergisting voeg ik ook nog wat bezinksel toe
 uit een flesje geuze.
 

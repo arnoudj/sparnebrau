@@ -1,4 +1,5 @@
 baseURL = "https://sparnebrau.nl/"
+defaultcontentlanguage = "nl"
 languageCode = "nl-nl"
 title = "Spärne Bräu"
 theme = "hugo-theme-bleak"
